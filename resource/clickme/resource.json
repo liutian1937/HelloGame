@@ -1,0 +1,11 @@
+{
+	"resources":
+		[
+			{"name":"bg","type":"sheet","url":"background.json"}
+		],
+
+	"groups":
+		[
+			{"name":"main","keys":"bg"}
+		]
+}
